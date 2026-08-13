@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: ocean
+  theme_night:  ocean
   font: native
   font_size: L
 
@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    org_name: '純真学園大学 保健医療学部 医療工学科 伊藤研究室'
+    description: '血管内イメージング（IVUS/OCT）読影技能の形式知化と、機械的循環補助の教育モデル構築に取り組んでいます。'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
