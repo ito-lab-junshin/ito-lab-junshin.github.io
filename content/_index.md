@@ -8,18 +8,21 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        伊藤研究室
       image:
         filename: welcome.jpg
       text: |
         <br>
+
+        純真学園大学 保健医療学部 医療工学科の伊藤研究室では、**臨床工学の実践知を教育可能な形に変換する**研究に取り組んでいます。
+
+        血管内イメージング（IVUS/OCT）の読影や機械的循環補助の管理は、熟練者の経験に依存する領域が広く残されています。当研究室では、その暗黙知を言語化・構造化し、誰もが体系的に習得できる教育モデルとして再構築することを目指しています。
         
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
-      title: Latest News
+      title: お知らせ
       subtitle:
       text:
       count: 5
